@@ -1,4 +1,4 @@
-This repository is licensed under the MIT License. © 2026 Hrithik Ghosh.
+copyright © 2026 Hrithik Ghosh.
 
 please use "pip install streamlit" before running this file 
 
